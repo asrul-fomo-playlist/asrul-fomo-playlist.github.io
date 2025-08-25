@@ -72,11 +72,12 @@ let allMusic = [
         src: "music-12"
     },
     {
-        name: "Best Friend",
+    name: "Best Friend",
         artist: "Rex Orange County",
         img: "music-13",
         src: "music-13"
     },
 ];
+
 
 
