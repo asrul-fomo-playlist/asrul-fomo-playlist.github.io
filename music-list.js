@@ -71,4 +71,11 @@ let allMusic = [
         img: "music-12",
         src: "music-12"
     },
+    {
+        name: "Wish You Where Here",
+        artist: "Rex Orange County",
+        img: "music-13",
+        src: "music-13"
+    },
 ];
+
