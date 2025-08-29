@@ -77,7 +77,26 @@ let allMusic = [
         img: "music-13",
         src: "music-13"
     },
+    {
+        name: "I Love You So",
+        artist: "The Walters",
+        img: "music-14",
+        src: "music-14"
+    },
+    {
+        name: "Lantas",
+        artist: "Juicy-Juicy",
+        img: "music-15",
+        src: "music-15"
+    },
+    {
+        name: "Here With Me",
+        artist: "d4vd",
+        img: "music-16",
+        src: "music-16"
+    },
 ];
+
 
 
 
