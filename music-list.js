@@ -95,7 +95,20 @@ let allMusic = [
         img: "music-16",
         src: "music-16"
     },
+    {
+        name: "Line Without A Hook",
+        artist: "Ricky Montgomery",
+        img: "music-17",
+        src: "music-17"
+    },
+    {
+        name: "Back To Friends",
+        artist: "Sombr",
+        img: "music-18",
+        src: "music-18"
+    },
 ];
+
 
 
 
