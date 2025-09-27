@@ -106,8 +106,14 @@ let allMusic = [
         artist: "Sombr",
         img: "music-18",
         src: "music-18"
+     {
+        name: "Tek It",
+        artist: "Cafuné",
+        img: "music-19",
+        src: "music-19"
     },
 ];
+
 
 
 
