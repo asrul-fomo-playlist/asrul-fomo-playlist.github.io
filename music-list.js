@@ -106,13 +106,15 @@ let allMusic = [
         artist: "Sombr",
         img: "music-18",
         src: "music-18"
+    },
      {
         name: "Tek It",
-        artist: "Cafuné",
+        artist: "Cafune",
         img: "music-19",
         src: "music-19"
     },
 ];
+
 
 
 
